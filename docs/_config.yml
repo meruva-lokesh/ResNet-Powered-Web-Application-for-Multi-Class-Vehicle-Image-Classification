@@ -1,0 +1,5 @@
+title: Vehicle Classifier
+description: A vehicle classification system using Flask and TensorFlow.
+baseurl: "" # Leave this empty for GitHub Pages
+url: "https://<your-username>.github.io" # Replace <your-username> with your GitHub username
+theme: minima
