@@ -110,11 +110,6 @@ joblib>=1.0.0
 flask-cors>=3.0.0
 ```
 
-## 📸 Screenshots
-(Add screenshots of the UI here for better visualization.)
-
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ---
 
